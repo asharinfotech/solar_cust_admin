@@ -1,0 +1,1 @@
+export const ADMIN_URL = "https://glowttsolar.com/api/";
