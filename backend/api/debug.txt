@@ -1,0 +1,1 @@
+{"country":"India","state":"Andaman and Nicobar Islands","name":"dem","phone":"0907267411","city":"zfzxfv","pincode":"555555","solarFor":"Homes","monthlyBill":"₹1500 – ₹2500","id":"9"}

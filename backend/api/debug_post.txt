@@ -1,0 +1,1 @@
+{"image_url":"","type":"image","category":"Commercial","location":"Delhi, India","capacity":"50","year":1998}
